@@ -2,6 +2,10 @@
 
 A simple but well described code for a CNN in tensorflow, trained on basic Fashion MNIST dataset
 
+__Skills__ : CNN (Convolutional Neural Networks), Deep Learning, Machine Learning, Computer Vision
+
+__Tools__ : Tensorflow, Python
+
 ## Results
 ![image](https://github.com/ayush-agarwal-0502/clothes-classifier/assets/86561124/2bfdd014-b554-4b72-9629-e1bb368c34f8)
 
